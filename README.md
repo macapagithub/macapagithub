@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on my master's thesis and a project for Sumitomo Electric Bordnetze. [Sumitomo Electric Bordnetze](https://www.sebn.com/en/)
+🔭 I am currently working for Sumitomo Electric Bordnetze. [Elliot Cloud](https://elliotcloud.com/)
 
 🌱 I’m currently learning Data Lake, Data Warehouse, Model Monitoring, Vector databases, RAG systems and Rust.
 
