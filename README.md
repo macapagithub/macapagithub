@@ -7,10 +7,6 @@
 
 👯 I'm looking to collaborate on projects related to data science, machine learning, and deep learning. Whether it's working on predictive modeling, natural language processing, computer vision, or any other data-driven endeavor, I'm eager to collaborate with like-minded individuals and teams to tackle challenging problems and create meaningful solutions. If you have a project in mind or are interested in discussing potential collaborations, please don't hesitate to reach out to me. Let's work together to harness the power of data and AI for impactful results!
 
-👨‍💻 All of my projects will be available at [MyPage](https://macapagithub.github.io/) and [https://github.com/macapagithub](https://github.com/macapagithub) (Working)
-
-📝 My articles [https://github.com/macapagithub](https://github.com/macapagithub) (Pending)
-
 💬 Ask me about **Mathematics, Data Science, Machine Learning, Deep Learning, MLOps and LLM.**
 
 ---
